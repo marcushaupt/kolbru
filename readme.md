@@ -1,7 +1,3 @@
-Great — here’s a **README.md outline + draft content** tailored for your Kolbru website repo. It’s structured so you look professional while keeping it lightweight and contributor-friendly:
-
----
-
 # Kolbru ☕
 
 *A fresh take on coffee: recipes, tools, and guides for smooth cold brew at home.*
@@ -49,18 +45,3 @@ It brings together:
 * [ ] Add affiliate product card component
 * [ ] Write & publish first 3 guides (recipe, method, tool test)
 * [ ] Optimize for SEO + structured data (recipes & reviews)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a PR with suggestions.
-
-* For bug fixes, branch from `main` and submit a pull request.
-* For new features, open an issue first to discuss the idea.
-
-## 📜 License
-
-MIT License – feel free to use, adapt, and improve.
-
----
-
-👉 Would you like me to generate this **README.md** as a file you can drop straight into your repo, or just keep it here as text?
